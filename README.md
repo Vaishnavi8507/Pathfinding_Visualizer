@@ -1,4 +1,4 @@
-# algorithm
+# PathFinding Algorithm
 
 A new Flutter project.
 
